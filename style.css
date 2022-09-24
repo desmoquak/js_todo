@@ -64,7 +64,7 @@ ul li  {
   font-size: 19px;
   transition: 0.2s;
 
-/* Make the list items unselectableads  */
+/* Make the list items unselectable  */
 -webkit-user-select: none;
 -moz-user-select: none;
 -ms-user-select: none;
